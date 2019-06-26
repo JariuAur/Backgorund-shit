@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>>Background Equipment</name>
+		<description></description>
+		<author url="http://dnd.wizards.com/products/tabletop-games/rpg-products/rpg_playershandbook">Wizards of the Coast</author>
+		<update version="0.0.1">
+			<file name="items-mounts.xml" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/core/players-handbook/items/items-mounts.xml" />
+		</update>
+	</info>
+	<element name="Acolyte Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_ACOLYTE">
+		<description>
+			<p>A holy symbol (a gift to you when you entered the priesthood), a prayer book or prayer wheel, 5 sticks of incense, vestments, a set of commonclothes, and a belt pouch containing 15 gp.</p>
+		</description>
+		<setters>
+			<set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Charlatan Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_CHARLATAN">
+		<description>
+			<p>A set of fine c1othes, a disguise kit, tools of the con of your choice (ten stoppered bottles filled with colored liquid, a set of weighted dice, a deck of marked cards, or a signet ring of an imaginary duke). and a belt pouch containing 15 gp</p>
+		</description>
+		<setters>
+			<set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Crminal Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_CRMINAL">
+		<description>
+			<p>A crowbar, a set of dark common clothes including a hood, and a bell pouch conlaining 15 g </p>
+		</description>
+		<setters>
+			<set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Entertainer Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_CRIMINAL">
+		<description>
+			<p>A musical instrument (one of your choice), the favor of an admirer (love lelter, lock of hair, or trinket), a costume, and a belt pouch containing 15 gp</p>
+		</description>
+		<setters>
+    	<set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Folk Hero Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_FOLK_HERO">
+		<description>
+			<p>A set of artisan's tools (one of your choice), a shovel, an iran pot, a set of common clothes, and a belt pouch containing 10 gp</p>
+		</description>
+		<setters>
+	    <set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Guild Artisan Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_GUILD_ARTISAN">
+		<description>
+			<p>A set of artisan's tools (one of your choice), a letter of introduction from your guild, a set of traveler's c1othes, and a belt pouch containing 15 gp</p>
+		</description>
+		<setters>
+	    <set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Hermit Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_HERMIT">
+		<description>
+			<p>A scroll case stuffed full of notes fram your studies or prayers, a winter blanket, a set of common clothes, an herbalism kit, and 5 gp</p>
+		</description>
+		<setters>
+	    <set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Noble Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_NOBLE">
+		<description>
+			<p>A set of fine clothes, a signet ring, a scroll of pedigree, and a purse containing 25 gp</p>
+		</description>
+		<setters>
+	    <set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Outlander Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_OUTLANDER">
+		<description>
+			<p>A staff, a hunting trap, a trophy from an animal you killed, a set of traveler's e1othes, and a belt pouch containing 10 gp</p>
+		</description>
+		<setters>
+	    <set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Sage Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_OUTLANDER">
+		<description>
+      <p>A bottle of black ink, a quil!, a small knife, a letter from a dead colleague posing a question you have not yet been able to answer, a set of common clothes, and a belt pouch containing 10 gp</p>
+    </description>
+		<setters>
+	    <set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Sailor Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_SAILOR">
+		<description>
+			<p>A belaying pin (dub), 50 feet of silk rope, a lucky charm such as a rabbit foot or a small stone with a hole in the center (or you may roll for a random trinket on the Trinkets table in chapter 5), a set of common dothes, and a belt pouch containing 10 gp</p>
+		</description>
+		<setters>
+	    <set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+	<element name="Soldier Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_SOLDIER">
+		<description>
+			<p>An insignia of rank, a trophy taken from a fallen enemy (a dagger, broken blade, or piece of a banner), a set of bone dice or deck of cards, a set of common clothes, and a beIt pouch containing 10 gp</p>
+		</description>
+		<setters>
+	    <set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element> 
+		<element name="Urchin Equipment" type="Set" source="Player’s Handbook" id="ID_WOTC_PHB_EQUIPMENT_URCHN">
+		<description>
+			<p>A small knife, a map of the city you grew up in, a pet mouse, a token to remember your parents by, a set of common clothes, and a belt pouch containing 10 gp</p>
+		</description>
+		<setters>
+	    <set name="category">Background Equipment</set>
+			<set name="type">Background Equipment</set>
+		</setters>
+	</element>  
+</elements>
